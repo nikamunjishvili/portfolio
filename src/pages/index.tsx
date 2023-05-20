@@ -3,9 +3,9 @@ import HireMe from "@/common/components/hire";
 import Layout from "@/common/components/layout";
 import Image from "next/image";
 import Link from "next/link";
-import DeveloperImage from "public/images/profile.png";
+import DeveloperImage from "../images/profile.png";
 import { BiLinkExternal } from "react-icons/bi";
-import LightBulb from 'public/images/Simple_light_bulb_graphic.png'
+import LightBulb from '../images/Simple_light_bulb_graphic.png'
 import Head from "next/head";
 export default function Home() {
   return (
