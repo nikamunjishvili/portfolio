@@ -4,12 +4,12 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import { AiFillGithub } from "react-icons/ai";
-import Capture from "/public/images/image.png";
-import Quiz from "/public/images/quizze.png";
-import Movies from "/public/images/movies.png";
-import PlanetFactApp from "/public/images/planet.png";
-import PlantsApp from "/public/images/plants.png";
-import Tip from "/public/images/tip.png";
+import Capture from "../../../public/images/image.png";
+import Quiz from "../../../public/images/quizze.png";
+import Movies from "../../../public/images/movies.png";
+import PlanetFactApp from "../../../public/images/planet.png";
+import PlantsApp from "../../../public/images/plants.png";
+import Tip from "../../../public/images/tip.png";
 
 interface PropsType {
   type: string;
