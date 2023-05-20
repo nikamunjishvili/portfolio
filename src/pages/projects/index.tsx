@@ -10,6 +10,7 @@ import Movies from "../../../public/images/movies.png";
 import PlanetFactApp from "../../../public/images/planet.png";
 import PlantsApp from "../../../public/images/plants.png";
 import Tip from "../../../public/images/tip.png";
+import PlantsImage from "../../../public/images/plants";
 
 interface PropsType {
   type: string;
